@@ -111,13 +111,7 @@ $ ls -la ~/projects/
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youchenjiang&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com/?user=Youchenjiang&theme=radical&hide_border=true&width=49%)
-
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youchenjiang&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" /><img src="https://streak-stats.demolab.com/?user=Youchenjiang&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" /></div>
 
 ---
 
