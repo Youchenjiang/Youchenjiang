@@ -103,6 +103,55 @@ $ ls -la ~/projects/
 
 ---
 
+
+## [#] Repository Directory
+
+```
+$ tree ~/repositories/
+```
+
+### 🛡️ Security Research
+├── 🚩 [`sec-compendium`](https://github.com/Youchenjiang/sec-compendium) — 資安研訓平台與 CTF 題庫  
+├── 🔬 [`sec-code-research`](https://github.com/Youchenjiang/sec-code-research) — 程式碼安全學術研究  
+├── 🎯 [`sec-poc`](https://github.com/Youchenjiang/sec-poc) — 漏洞驗證 PoC 集  
+└── 🤖 [`wargame-bot`](https://github.com/Youchenjiang/wargame-bot) — HITCON Wargame 競賽題目自動化機器人 *(待整合)*  
+
+### 🚀 Applications & Products
+├── 🪟 [`Clickra`](https://github.com/Youchenjiang/Clickra) — Windows Shell 效率工具 *(MS Store)*  
+├── ⌨️ [`app-tapster`](https://github.com/Youchenjiang/app-tapster) — Windows 11 滑鼠鍵盤自動化 *(WinUI 3 / MS Store)*  
+├── 🌐 [`app-portfolio`](https://github.com/Youchenjiang/app-portfolio) — 個人形象網站 & 技術 Writeup  
+├── 🐾 [`app-wildwatch`](https://github.com/Youchenjiang/app-wildwatch) — 生態族群模擬觀察遊戲  
+├── ♟️ [`app-dark-chess`](https://github.com/Youchenjiang/app-dark-chess) — 暗棋網頁對弈遊戲  
+├── 🍱 [`app-meal-ledger`](https://github.com/Youchenjiang/app-meal-ledger) — 餐費統計與記帳應用  
+└── 📖 [`app-novel-verse`](https://github.com/Youchenjiang/app-novel-verse) — 小說閱讀平台 *(Private)*  
+
+### ⚙️ Tools & Bots
+├── 🤖 [`tool-scripts`](https://github.com/Youchenjiang/tool-scripts) — 自動化腳本集 & Discord 廣播 Bot  
+├── 💬 [`Line-AI-Assistant`](https://github.com/Youchenjiang/Line-AI-Assistant) — LINE AI 助理機器人  
+└── 👾 [`loss-found-app-bot`](https://github.com/Youchenjiang/loss-found-app-bot) — Discord 伺服器互動 Bot *(Archived)*  
+
+### 📚 Knowledge Base
+├── 💡 [`kb-methods`](https://github.com/Youchenjiang/kb-methods) — 開發踩坑與解法精選筆記  
+├── 📑 [`kb-records`](https://github.com/Youchenjiang/kb-records) — 個人技術歷程與日常紀錄  
+├── 🔒 [`kb-private`](https://github.com/Youchenjiang/kb-private) — 個人通訊錄與健康檔案 *(Private)*  
+└── 🎹 [`kb-piano-sheets`](https://github.com/Youchenjiang/kb-piano-sheets) — 鋼琴樂譜庫  
+
+### 🎓 Learning & Practice
+├── 📊 [`learn-text-polarity`](https://github.com/Youchenjiang/learn-text-polarity) — 文本情感極性分析 (NLP)  
+├── 🎨 [`learn-frontend-projects`](https://github.com/Youchenjiang/learn-frontend-projects) — 現代前端互動介面練習集  
+├── 🔌 [`learn-webapi`](https://github.com/Youchenjiang/learn-webapi) — ASP.NET Core Web API 架構練習 *(Private)*  
+└── 🥋 [`learn-tennis-kata`](https://github.com/Youchenjiang/learn-tennis-kata) — TDD 測試驅動開發與重構練習 *(Tennis Kata)* *(Private)*  
+
+### 🍴 Forks & Open Source
+├── 📑 [`zotero-arxiv-daily`](https://github.com/Youchenjiang/zotero-arxiv-daily) — arXiv 每日論文推薦  
+├── 🧠 [`minimind`](https://github.com/Youchenjiang/minimind) — 輕量 GPT 模型微調實驗  
+├── 📥 [`ebooks_downloader`](https://github.com/Youchenjiang/ebooks_downloader) — 電子書下載工具  
+├── 🕹️ [`Tetris-JS-HTML-CSS-Express`](https://github.com/Youchenjiang/Tetris-JS-HTML-CSS-Express) — 經典俄羅斯方塊  
+├── 👥 [`COSCUP-Lab`](https://github.com/Youchenjiang/COSCUP-Lab) — 開源人年會研習實驗  
+└── 📅 [`training-event`](https://github.com/Youchenjiang/training-event) — 資訊培訓活動整理  
+
+---
+
 ## [#] GitHub Stats
 
 <div align="center">
@@ -142,3 +191,4 @@ $ ls -la ~/projects/
 ![Profile Views](https://komarev.com/ghpvc/?username=Youchenjiang&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
+
